@@ -1,3 +1,4 @@
 Biz Git Hub orqali faylga o'zgartirish kirityapmiz.
 GitHubga odam qo'shish
 Men Turdinazarov Asqar bu faylga o'zgartirish kiritdim
+men abdualimov botir o'zgartirish kiritdim
